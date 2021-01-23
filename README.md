@@ -5,7 +5,7 @@ Player de vídeo
     <img src="https://ik.imagekit.io/b2twgpcgqmc/Screenshot_4_2NwrRr5AX.png" />
 </h1>
 <h1 align="center">
-    <b><a href="https://eliasnepo.github.io/video-player/">Acesse a demonstração</a></b>
+    <b><a href="https://eliasnepo.github.io/player-de-video/">Acesse a demonstração</a></b>
 </h1>
 
 ---
@@ -17,7 +17,7 @@ Player de vídeo
 
  ## 📂 Como usar o projeto
 
- Para usar o projeto, <a href="https://eliasnepo.github.io/video-player/">acesse a demonstração</a> e aproveite. 😜
+ Para usar o projeto, <a href="https://eliasnepo.github.io/player-de-video/">acesse a demonstração</a> e aproveite. 😜
 
 ---
 
