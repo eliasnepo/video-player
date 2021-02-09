@@ -1,12 +1,15 @@
 <h1 align="center">
 Player de vídeo
 </h1>
-<h1 align="center">
+<h3 align="center">
     <img src="https://ik.imagekit.io/b2twgpcgqmc/Screenshot_4_2NwrRr5AX.png" />
-</h1>
-<h1 align="center">
-    <b><a href="https://eliasnepo.github.io/player-de-video/">Acesse a demonstração</a></b>
-</h1>
+</h3>
+
+---
+
+<h3 align="center">
+    <a href="https://eliasnepo.github.io/player-de-video/"><img src="https://ik.imagekit.io/b2twgpcgqmc/Buttons/button_acessar-demonstracao__8__Ims_vYm1KE.png" /></a>
+</h3>
 
 ---
 
